@@ -1,0 +1,26 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC',sans-serif;
+}
+
+
+p.redred{
+    color:#d94848;
+    font-size: 40px;
+    text-align: left;
+    text-indent: 2em;
+    background-color:#48d94d;
+
+}
+
+.blueblue{
+    color:white;
+}
