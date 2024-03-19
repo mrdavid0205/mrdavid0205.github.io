@@ -24,3 +24,12 @@ p.redred{
 .blueblue{
     color:white;
 }
+
+.expedu_icon{
+    color:red
+}
+
+.expedu_icon:hover{
+    background-color: red;
+    color:white
+    }
