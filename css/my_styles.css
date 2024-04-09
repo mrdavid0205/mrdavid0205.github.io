@@ -42,3 +42,31 @@ p.redred{
     background-repeat: no-repeat;
     background-size: cover
       }
+
+      table.davidtable{
+        width: 80%;
+        background-color: aquamarine;
+      }
+
+      table.davidtable th{
+        text-align: center;
+        background-color: black;
+        border: 1px solid #2a5d44;
+      }
+
+      table.davidtable td{
+        text-align: center;
+        border: 1px solid #2a5d44;
+      }
+
+      table.davidtable tr:nth-child(even) {
+        background-color: yellow;
+      }
+
+      table.davidtable tr:nth-child(odd) {
+        background-color: white;
+      }
+
+
+         
+          
