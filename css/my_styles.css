@@ -12,12 +12,16 @@ h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
 }
 
 
-p.redred{
+div#redred{
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin: 100px 100px 50px 100px;
+
     color:#d94848;
     font-size: 40px;
     text-align: left;
     text-indent: 2em;
-    background-color:#d1b411;
+    background-color:gold;
     border: 10px solid;
     border-color:black ;
 
@@ -26,6 +30,8 @@ p.redred{
 .blueblue{
     color:white;
 }
+
+
 
 .expedu_icon{
     color:red
@@ -67,6 +73,11 @@ p.redred{
         background-color: white;
       }
 
+      .david123{
+        width: 80px;
+        margin: 100px auto;
+      }
+     
 
          
           
