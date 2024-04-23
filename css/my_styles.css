@@ -81,6 +81,12 @@ div#redred{
       .custom-purple {
         color: #9370db;
       }
+
+      .background123{
+        background-image: url(../assets/img/排球封面.jpg);
+        background-size: cover; /* 調整背景圖片大小以填滿整個節點 */
+        background-position: center; /* 將背景圖片置中 */
+      }
      
 
          
