@@ -110,6 +110,34 @@ div#redred{
         border-radius: 50px; /* 圓角 */
         background-color: rgba(0, 0, 0, 0.3);
     }
+
+    .davidcontainer {
+      position: relative; /* 設置容器相對定位 */
+      height: 100vh; /* 將容器高度設置為視窗的高度 */
+      display: flex; /* 使用彈性盒模型布局 */
+      justify-content: center; /* 水平居中 */
+      align-items: flex-end; /* 垂直底部對齊 */
+    }
+
+    .btn123{
+      position: absolute; /* 按鈕絕對定位 */
+    bottom: 20px; /* 與底部的距離 */
+    }
+
+    .fun-button { /* 按鈕樣式 */
+      padding: 20px 30px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.3s;
+  }
+
+  .fun-button:hover { /* 懸停效果 */
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
       
 
          
