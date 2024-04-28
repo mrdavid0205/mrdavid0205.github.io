@@ -98,5 +98,19 @@ div#redred{
         color:white
         }
 
+      .list-group-item:hover {
+          background-color: #f0f0f0;
+          cursor: pointer; /* 將滑鼠游標設置為手指標示滑過可點擊的元素 */
+          transition: background-color 0.3s ease;
+      }
+
+      .custom-box {
+        border: 2px solid #ccc; /* 框的邊框 */
+        padding: 20px; /* 內邊距 */
+        border-radius: 50px; /* 圓角 */
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+      
+
          
           
