@@ -138,6 +138,21 @@ div#redred{
     background-color: #0056b3;
     transform: scale(1.1);
 }
+
+.middle-section {
+  text-align: center;
+}
+
+.middle-section h1 {
+  /* 如果您希望标题与页面宽度相同，可以添加下面这些样式 */
+  width: 100%;
+  /* 如果您希望标题与页面宽度相同，但文字不要过长 */
+  max-width: 800px; /* 根据您的喜好进行调整 */
+  /* 如果您希望标题有一些额外的样式 */
+  font-size: 32px; /* 根据您的喜好进行调整 */
+  color: #333; /* 根据您的设计进行调整 */
+  /* 可以继续添加其他样式以满足您的需求 */
+}
       
 
          
